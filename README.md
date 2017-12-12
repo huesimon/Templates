@@ -16,3 +16,20 @@ Replace db info with your own
 * Encrypt passwords?
 
 
+* Login Form / Auth
+
+
+* Chrome extention 
+
+
+Manifest
+
+
+* Cookies and sessions
+
+
+* Telnet 
+
+it sucks
+
+
