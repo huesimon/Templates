@@ -15,6 +15,10 @@ Replace db info with your own
 
 * Encrypt passwords?
 
+# Encrypt passwords
+Hashing and salting in php
+[Hashing password](https://github.com/huesimon/Templates/blob/master/passwordHash.php)
+
 
 * Login Form / Auth
 
