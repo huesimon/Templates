@@ -1,9 +1,3 @@
-
-<html>
-<body>
-
-
-
 <?php
 /**
  * Created by PhpStorm.
@@ -36,5 +30,3 @@ else{
 
 
 ?>
-</body>
-</html>
