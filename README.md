@@ -23,10 +23,11 @@ Basic login form with bootstrap.css
 
 No functionality added [Login form](https://github.com/huesimon/Templates/blob/master/login.php)
 
-## Chrome extention 
+## Chrome extension 
 
 
-Manifest
+Chrome Extension example 
+Root folder [Ext](https://github.com/huesimon/Templates/blob/master/ext)
 
 
 ## Cookies and sessions
