@@ -104,7 +104,7 @@
         $servername = "localhost";  // only for local use
         $username = "root";         // Default username
         $password = "root";         // Default password
-        $dbname = "INSERT NAME OF DATABASE"; // Your own db name
+        $dbname = ""; // Your own db name
         // Create connection
 
         $conn = new mysqli($servername, $username, $password, $dbname);
@@ -148,7 +148,7 @@
 
 <footer class="footer">
     <div class="container">
-        <span class="text-muted">Startsiden er verdens bedste startside.</span>
+            <span class="text-muted">Startsiden er verdens bedste startside.</span>
     </div>
 </footer>
 </body>
