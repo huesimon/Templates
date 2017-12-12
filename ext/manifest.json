@@ -11,8 +11,10 @@
   },
   "default_locale": "en",
   "chrome_url_overrides": { //overskriver din nye tab med en valgfri fil i "newtab"
-    "newtab": "src/override/override.html"
+    "newtab": "login2.php"
   },
   //permissions er adgang til diverse sider, hvis der ikke er givet permission i manifest filen kan den ikke findes
-  "permissions": ["http://localhost/pEksamen/JSON_api.php/orders"]
+  "permissions": ["http://localhost/Templates/login2.php",
+    "https://www.dr.dk/",
+  "http://localhost/Templates/img/haha.gif"]
 }
