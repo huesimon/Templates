@@ -1,0 +1,18 @@
+{
+  "name": "CHANGE THIS : Extension orders",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Gets random order when opening a new tab", //beskriv hvad extension gør
+  "homepage_url": "http://extensionizr.com",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "chrome_url_overrides": { //overskriver din nye tab med en valgfri fil i "newtab"
+    "newtab": "src/override/override.html"
+  },
+  //permissions er adgang til diverse sider, hvis der ikke er givet permission i manifest filen kan den ikke findes
+  "permissions": ["http://localhost/pEksamen/JSON_api.php/orders"]
+}
