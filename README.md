@@ -23,6 +23,10 @@ Basic login form with bootstrap.css
 
 No functionality added [Login form](https://github.com/huesimon/Templates/blob/master/login.php)
 
+No css but login2 actually works and checks username and pasword with checklogin.php [Login2 form](https://github.com/huesimon/Templates/blob/master/login2.php)
+
+
+
 ## Chrome extention 
 
 
