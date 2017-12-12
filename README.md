@@ -19,7 +19,9 @@ Hashing and salting in php
 
 
 ## Login Form / Auth
+Basic login form with bootstrap.css
 
+No functionality added 
 
 ## Chrome extention 
 
